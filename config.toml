@@ -1,16 +1,11 @@
 baseURL = "https://oxsynn.github.io/"
 languageCode = "en-us"
 title = "Gilbert Cisneros - System Administrator"
-theme = "m10c"
+theme = "lekh"
 
 [[menu.main]]
-	identifier = "Post"
-	name = "Posts"
-	url = "/post/"
 
 [[params.social]]
-	name = "github"
-	url = "https://github.com/oxsynn"
 	
 [params.style]
 	darkestColor = "#d35050"
